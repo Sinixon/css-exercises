@@ -1,0 +1,19 @@
+.pinkyParagraph {
+    background-color: #f979b5;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blueTextDiv {
+    color: #0000ff;
+    font-size:36px;
+}
+
+#greenDiv {
+    background-color: #80ff80;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pinkyParagraph.extra {
+    font-size:24px;
+}
