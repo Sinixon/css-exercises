@@ -1,0 +1,15 @@
+.clickMeFirst,
+.clickMeSecond {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.clickMeFirst {
+    background-color: black;
+    color: hsl(0, 0%, 100%);
+}
+
+.clickMeSecond {
+    background-color: yellow;
+    color: #000000;
+}
